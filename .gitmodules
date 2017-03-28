@@ -34,3 +34,6 @@
 [submodule "Hello-World-JS"]
 	path = Hello-World-JS
 	url = https://github.com/aakaashjois/Hello-World-JS.git
+[submodule "Logo-Search"]
+	path = Logo-Search
+	url = https://github.com/aakaashjois/Logo-Search.git
