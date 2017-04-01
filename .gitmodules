@@ -1,3 +1,6 @@
+[submodule "Tic-Tac-Toe]
+	path = Tic-Tac-Toe
+	url = https://github.com/aakaashjois/Tic-Tac-Toe.git
 [submodule "Book-Search"]
 	path = Book-Search
 	url = https://github.com/aakaashjois/Book-Search.git
