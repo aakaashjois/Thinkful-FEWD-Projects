@@ -1,6 +1,3 @@
-[submodule "Tic-Tac-Toe]
-	path = Tic-Tac-Toe
-	url = https://github.com/aakaashjois/Tic-Tac-Toe.git
 [submodule "Book-Search"]
 	path = Book-Search
 	url = https://github.com/aakaashjois/Book-Search.git
@@ -40,3 +37,6 @@
 [submodule "Logo-Search"]
 	path = Logo-Search
 	url = https://github.com/aakaashjois/Logo-Search.git
+[submodule "Tic-Tac-Toe"]
+	path = Tic-Tac-Toe
+	url = https://github.com/aakaashjois/Tic-Tac-Toe.git
