@@ -1,30 +1,12 @@
 [submodule "Book-Search"]
 	path = Book-Search
 	url = https://github.com/aakaashjois/Book-Search.git
-[submodule "css_layout_exercises_starter_files"]
-	path = css_layout_exercises_starter_files
-	url = https://github.com/aakaashjois/css_layout_exercises_starter_files.git
 [submodule "Thinkful-Tube"]
 	path = Thinkful-Tube
 	url = https://github.com/aakaashjois/Thinkful-Tube.git
 [submodule "quiz-app"]
 	path = quiz-app
 	url = https://github.com/aakaashjois/quiz-app.git
-[submodule "shopping-list"]
-	path = shopping-list
-	url = https://github.com/aakaashjois/shopping-list.git
-[submodule "first_push"]
-	path = first_push
-	url = https://github.com/aakaashjois/first_push.git
-[submodule "text-analyzer-starter-files"]
-	path = text-analyzer-starter-files
-	url = https://github.com/aakaashjois/text-analyzer-starter-files.git
-[submodule "star-wars-responsive-challenge-starter-files"]
-	path = star-wars-responsive-challenge-starter-files
-	url = https://github.com/aakaashjois/star-wars-responsive-challenge-starter-files.git
-[submodule "responsive-grid-example-and-challenge-starter-files"]
-	path = responsive-grid-example-and-challenge-starter-files
-	url = https://github.com/aakaashjois/responsive-grid-example-and-challenge-starter-files.git
 [submodule "AnalogSea-Signup"]
 	path = AnalogSea-Signup
 	url = https://github.com/aakaashjois/AnalogSea-Signup.git
